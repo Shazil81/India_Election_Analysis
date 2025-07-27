@@ -70,22 +70,23 @@ This project delivers a comprehensive analysis of the **Indian General Elections
 
 <img width="629" height="353" alt="image" src="https://github.com/user-attachments/assets/3e02dc1a-380b-48bb-b289-59be06c56042" />
 
+---
 
 - **State-wise Map View**: Interactive choropleth highlighting winning alliances.
 
 <img width="626" height="347" alt="image" src="https://github.com/user-attachments/assets/7a99eb26-84b3-49e0-a404-1e6e5bba5d69" />
 
-  
+---
 - **State-wise Analysis**: Determining all the winning alliances and parties of that alliance, party wise seat share by state.
 
 <img width="626" height="347" alt="image" src="https://github.com/user-attachments/assets/21ff75bc-4fe9-433c-8575-526de0366b56" />
 
-  
+---  
 - **Constituency-wise Analysis**: Highlighting the constituency wise details of candidates (winnig candidate, runner up candidate), votes and parties they belong to.
 
 <img width="631" height="347" alt="image" src="https://github.com/user-attachments/assets/322bb960-dcfb-429b-90ab-ae7f7d911454" />
 
-
+---
 - **Details in Grid**: This is the full detail of winning candidates by votes and parties they belong to. 
 
 <img width="628" height="352" alt="image" src="https://github.com/user-attachments/assets/c8b3e414-fb60-42a0-bac1-dffad3c8f900" />
